@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(155, 190, 221);
+}
+.Photo{
+    width: 10%;
+    height:10%;
+    float: left;
+}
+.info li and p { 
+    text-align: center;
+    padding-left: 50%;
+}
+
